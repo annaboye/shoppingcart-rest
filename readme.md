@@ -1,3 +1,6 @@
+# Shoppingcart REST-API
+This was a task in the course API-development at Medieinstitutet. The task was to create a REST-API for a shoppingcart.
+
 collection:
 
 product:
